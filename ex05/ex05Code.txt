@@ -1,0 +1,51 @@
+Last login: Thu Jan 28 09:34:53 on ttys000
+el-capitans-iMac-3:~ el-capitan$ pwd
+/Users/el-capitan
+el-capitans-iMac-3:~ el-capitan$ ls -la
+total 64
+drwxr-xr-x+  20 el-capitan  staff    680 Jan 28 07:45 .
+drwxr-xr-x    5 root        admin    170 Jan 24 12:08 ..
+-r--------    1 el-capitan  staff      7 Jan 24 12:08 .CFUserTextEncoding
+-rw-r--r--@   1 el-capitan  staff  10244 Jan 27 13:32 .DS_Store
+drwx------   11 el-capitan  staff    374 Jan 28 09:45 .Trash
+-rw-r--r--    1 el-capitan  staff   6296 Jan 28 09:34 .bash_history
+drwxr-xr-x  149 el-capitan  staff   5066 Jan 28 09:45 .bash_sessions
+drwxr-xr-x    3 el-capitan  staff    102 Jan 26 09:10 .config
+-rw-r--r--    1 el-capitan  staff    142 Jan 28 07:45 .gitconfig
+drwx------    5 el-capitan  staff    170 Jan 26 09:16 .ssh
+drwx------+  20 el-capitan  staff    680 Jan 28 09:45 Desktop
+drwx------+   3 el-capitan  staff    102 Jan 24 12:08 Documents
+drwx------+  10 el-capitan  staff    340 Jan 28 07:40 Downloads
+drwx------@  48 el-capitan  staff   1632 Jan 26 15:59 Library
+drwx------+   3 el-capitan  staff    102 Jan 24 12:08 Movies
+drwx------+   4 el-capitan  staff    136 Jan 26 15:59 Music
+drwx------+   3 el-capitan  staff    102 Jan 24 12:08 Pictures
+drwxr-xr-x+   5 el-capitan  staff    170 Jan 24 12:08 Public
+drwxr-xr-x    3 el-capitan  staff    102 Jan 27 16:57 ex07
+-rw-r--r--    1 el-capitan  staff    111 Jan 27 10:44 themba
+el-capitans-iMac-3:~ el-capitan$ clear
+
+el-capitans-iMac-3:~ el-capitan$ pwd
+/Users/el-capitan
+el-capitans-iMac-3:~ el-capitan$ ls -l
+total 8
+drwx------+ 20 el-capitan  staff   680 Jan 28 09:45 Desktop
+drwx------+  3 el-capitan  staff   102 Jan 24 12:08 Documents
+drwx------+ 10 el-capitan  staff   340 Jan 28 07:40 Downloads
+drwx------@ 48 el-capitan  staff  1632 Jan 26 15:59 Library
+drwx------+  3 el-capitan  staff   102 Jan 24 12:08 Movies
+drwx------+  4 el-capitan  staff   136 Jan 26 15:59 Music
+drwx------+  3 el-capitan  staff   102 Jan 24 12:08 Pictures
+drwxr-xr-x+  5 el-capitan  staff   170 Jan 24 12:08 Public
+drwxr-xr-x   3 el-capitan  staff   102 Jan 27 16:57 ex07
+-rw-r--r--   1 el-capitan  staff   111 Jan 27 10:44 themba
+el-capitans-iMac-3:~ el-capitan$ cd Desktop
+el-capitans-iMac-3:Desktop el-capitan$ mkdir ex05
+el-capitans-iMac-3:Desktop el-capitan$ cd ex05
+el-capitans-iMac-3:ex05 el-capitan$ ls
+el-capitans-iMac-3:ex05 el-capitan$ echo "42" >  "\?$*’KwaMe’*$?\.txt"
+el-capitans-iMac-3:ex05 el-capitan$ 
+
+
+
+
