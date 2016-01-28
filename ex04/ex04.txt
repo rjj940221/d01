@@ -37,4 +37,11 @@ el-capitans-iMac-3:ex04 el-capitan$ ./MAC.sh | cat
 	ether 0a:f0:76:07:3b:80 
 	ether 3a:c9:86:c0:7b:00 
 	ether 1a:8a:26:94:09:3b 
-el-capitans-iMac-3:ex04 el-capitan$ 
+el-capitans-iMac-3:ex04 el-capitan$ chmod 314 MAC.sh
+
+
+
+
+
+
+
