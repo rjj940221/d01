@@ -1,1 +1,1 @@
-ifconfig | grep -v "media" | grep "ether" >> 
+ifconfig | grep -v 'media' | grep 'ether'

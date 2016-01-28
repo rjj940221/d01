@@ -1,0 +1,40 @@
+Last login: Thu Jan 28 13:00:44 on ttys001
+el-capitans-iMac-3:~ el-capitan$ cd Desktop/\
+> "
+> c
+el-capitans-iMac-3:~ el-capitan$ 
+el-capitans-iMac-3:~ el-capitan$ 
+el-capitans-iMac-3:~ el-capitan$ cd Desktop/
+el-capitans-iMac-3:Desktop el-capitan$ ls
+BigBoyPants				bootcamp Day 2 Vids
+Boot camp videods\			cat
+Day00 excercises 			challeng
+Day01 Excercises			d00
+Day02EX					d01.en.pdf
+Screenshot 2016-01-26 08.55.50.png	file.c
+Screenshot 2016-01-26 09.06.03.png	problem set 1
+Untitled.tiff				resources
+books					rjj
+el-capitans-iMac-3:Desktop el-capitan$ cd rjj
+el-capitans-iMac-3:rjj el-capitan$ cd ex04
+el-capitans-iMac-3:ex04 el-capitan$ cat MAC.sh
+ifconfig | grep -v "media" | grep "ether" >> MAC.shel-capitans-iMac-3:ex04 el-capiteeleleeeeleeeeeeeeeleeeelelel-el-eeleeleeeeeeeeeleleleeeleleeeeeeeeeeeeeeeel-capitans-iMac-3:ex04 el-capitan$ touch "MAC.sh"
+el-capitans-iMac-3:ex04 el-capitan$ ls
+MAC.sh		ex04Code.txt
+el-capitans-iMac-3:ex04 el-capitan$ "ifconfig | grep -v "media" | grep "ether" >> MAC.sh" >> MAC.sh 
+-bash: ifconfig | grep -v media | grep ether >> MAC.sh: command not found
+el-capitans-iMac-3:ex04 el-capitan$ man sed
+el-capitans-iMac-3:ex04 el-capitan$ man sed
+el-capitans-iMac-3:ex04 el-capitan$ echo "ifconfig | grep -v 'media' | grep 'ether'" > MAC.sh
+el-capitans-iMac-3:ex04 el-capitan$ ./MAC.sh | cat
+-bash: ./MAC.sh: Permission denied
+el-capitans-iMac-3:ex04 el-capitan$ chmod 777 MAC.sh
+el-capitans-iMac-3:ex04 el-capitan$ ./MAC.sh | cat
+	ether 38:c9:86:0c:8d:a3 
+	ether 28:f0:76:07:3b:80 
+	ether 1a:00:00:2a:24:70 
+	ether 1a:00:00:2a:24:71 
+	ether 0a:f0:76:07:3b:80 
+	ether 3a:c9:86:c0:7b:00 
+	ether 1a:8a:26:94:09:3b 
+el-capitans-iMac-3:ex04 el-capitan$ 
